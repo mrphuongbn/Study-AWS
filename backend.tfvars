@@ -1,0 +1,8 @@
+address        = "https://gitlab.com/api/v4/projects/39459994/terraform/state/test-state"
+lock_address   = "https://gitlab.com/api/v4/projects/39459994/terraform/state/test-state/lock"
+unlock_address = "https://gitlab.com/api/v4/projects/39459994/terraform/state/t-state/lock"
+username       = "mrphuongbn"
+password       = "glpat-yNZicz-V1s5YXzwYScwD"
+lock_method    = "POST"
+unlock_method  = "DELETE"
+retry_wait_min = "5"
